@@ -27,3 +27,5 @@ Khi người dùng sử dụng mạng do nhóm triển khai mà muốn truy cậ
 
 ## Các video liên quan
 https://drive.google.com/drive/folders/1HoeJeqgbZKtfirfQ9glzTGFxyzcoBPHd?usp=sharing 
+
+### P/S: Repository này không thể hiện quá trình thực hiện dự án của tôi hay của nhóm, repository này được tạo sau khi dự án môn học kết thúc bởi cá nhân tôi với mục đích lưu trữ
